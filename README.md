@@ -13,7 +13,7 @@ Connect with me and ask anything on <a href="https://www.linkedin.com/in/john-ty
 
 ## 🙋‍♂️ About Me
 
-🔭 I’m currently working on a **Reddit clone** and **open source contribution oppurtunites**
+🔭 I’m currently working on a **Reddit clone** and **open source contribution opportunites**
     
 🌱 I’m currently learning **Ruby on Rails** and **Testing** 
  
