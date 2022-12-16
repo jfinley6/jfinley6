@@ -9,11 +9,7 @@
 
 <div align="center">
 
- <br>
-Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better! <br>
 Connect with me and ask anything on <a href="https://www.linkedin.com/in/john-tyler-finley/"><b>LinkedIn</b></a> 
-
-<i>Happy Developing!</i> :)
 
 ## 🙋‍♂️ About Me
 
@@ -49,20 +45,22 @@ Connect with me and ask anything on <a href="https://www.linkedin.com/in/john-ty
 <br/>
 
 <p align="center">
-    <a href="https://github.com/vedantpople4/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Vedant Pople's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vedantpople4&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="#">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="John Finley's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jfinley6&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
      
-![Profile Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vedantpople4&theme=nord_dark)
+![Profile Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jfinley6&theme=nord_dark)
 
 ## 📊 My Github Stats
 
   <br/>
-      
-      <a href="https://github.com/vedantpople4/github-readme-stats"><img alt="Vedant Pople's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vedantpople4&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+       
              
   <a href="#"><img alt="John Finley's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfinley6&langs_count=5&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-      
+     <a href="https://github.com/vedantpople4/github-readme-stats"><img alt="Vedant Pople's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jfinley6&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+     
+     
+
   <br/>
 
