@@ -15,7 +15,7 @@ Connect with me and ask anything on <a href="https://www.linkedin.com/in/john-ty
 
 🔭 I’m currently working on a **Reddit clone** and **open source contribution opportunites**
     
-🌱 I’m currently learning **Ruby on Rails** and **Testing** 
+🌱 I’m currently learning **Ruby on Rails** and **Unit Testing** 
  
  👩🏻‍🎓 I'm looking for a **Junior Developer Position** to get hands-on experience.
 
