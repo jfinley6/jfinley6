@@ -52,7 +52,7 @@ Connect with me and ask anything on <a href="https://www.linkedin.com/in/john-ty
      
 ![Profile Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jfinley6&theme=nord_dark)
 
-## 📊 My Github Stats
+<!-- ## 📊 My Github Stats
 
   <br/>
        
@@ -62,5 +62,5 @@ Connect with me and ask anything on <a href="https://www.linkedin.com/in/john-ty
      
      
 
-  <br/>
+  <br/> -->
 
