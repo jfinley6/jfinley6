@@ -28,12 +28,37 @@ Connect with me and ask anything on <a href="https://www.linkedin.com/in/john-ty
   <img src="https://i.imgur.com/B0RAMDv.png" height="200"/>
  </a>
  <div>
-  <strong><h4>Reddit Post Keyword Monitor</h4></strong>
-  <ul>
-   <li>Monitor Reddit posts for specific keywords and get email notifications for matching posts</li>
+  <p>Reddit Post Keyword Monitor</p>
+  <p>
+<!--    <a href="https://reddit-clone-rails.herokuapp.com/">(Live Demo)</a> -->
+   <a href="https://github.com/jfinley6/reddit-keyword-monitor">(Github Repo)</a>
+  </p>
+  <ul align="left" style="list-style-type:none">
+   <li>Monitor Reddit posts for specific keywords and get email notifications for matching posts
+   <li>Emails sent using ActionMailer
    <li>Built using Full Stack Ruby on Rails</li>
    <li>Styled using Tailwind and CSS</li>
    <li>Built with the intention of grabbing free tickets that people post on local subreddit</li>
+  </ul>
+ </div>
+</div>
+ 
+ <div>
+ <a href="https://github.com/jfinley6/reddit-keyword-monitor">
+  <img src="https://i.imgur.com/Ff6T9VX.png" height="200"/>
+ </a>
+ <div>
+  <p>Reddit Clone</p>
+  <p>
+   <a href="https://reddit-clone-rails.herokuapp.com/">(Live Demo)</a>
+   <a href="https://github.com/jfinley6/ruby-on-rails-reddit-clone">(Github Repo)</a>
+  </p>
+  <ul align="left" style="list-style-type:none">
+    <li>A Reddit Clone where users can make posts, vote and comment on posts and create communities</li>
+    <li>Built using Full Stack Ruby on Rails</li>
+    <li>Styled using Bootstrap and CSS</li>
+    <li>Authentication and session tracking done using Devise gem</li>
+    <li>Designed with the Model View Controllr architecture in mind</li>
   </ul>
  </div>
 </div>
