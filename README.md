@@ -24,9 +24,7 @@ Connect with me and ask anything on <a href="https://www.linkedin.com/in/john-ty
 ## 🔭 Portfolio
  
  <div>
- <a href="https://github.com/jfinley6/reddit-keyword-monitor">
   <img src="https://i.imgur.com/B0RAMDv.png" height="200"/>
- </a>
  <div>
   <p>Reddit Post Keyword Monitor</p>
   <p>
@@ -44,9 +42,7 @@ Connect with me and ask anything on <a href="https://www.linkedin.com/in/john-ty
 </div>
  
  <div>
- <a href="https://github.com/jfinley6/reddit-keyword-monitor">
   <img src="https://i.imgur.com/Ff6T9VX.png" height="200"/>
- </a>
  <div>
   <p>Reddit Clone</p>
   <p>
