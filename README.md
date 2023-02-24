@@ -20,8 +20,46 @@ Connect with me and ask anything on <a href="https://www.linkedin.com/in/john-ty
  👩🏻‍🎓 I'm looking for a **Junior Developer Position** to get hands-on experience.
 
 📫 Reach me at : **johnfinleybremerton@gmail.com**
+ 
+## 🔭 Portfolio
+ 
+ <div>
+ <a href="https://github.com/jfinley6/reddit-keyword-monitor">
+  <img align="center" src="https://i.imgur.com/B0RAMDv.png" height="200"/>
+ </a>
+  <strong><p>Reddit Post Keyword Monitor</p></strong>
+ <ul align="left" style="display: table; margin: 0 auto">
+  <li>Monitor Reddit posts for specific keywords and get email notifications for matching posts</li>
+  <li>Built using Full Stack Ruby on Rails</li>
+  <li>Styled using Tailwind and CSS</li>
+  <li>Built with the intention of grabbing free tickets that people post on local subreddit</li>
+ </ul>
+</div>
+ 
 
-## 👩🏻‍🎓 Work and School Experience
+<!--  
+ <div>
+  <div align="left">
+   <a href="https://github.com/jfinley6/ruby-on-rails-reddit-clone">
+    <img src="https://i.imgur.com/Ff6T9VX.png" height="200"/>
+   </a>
+   <p>Live Demo</p>
+  </div>
+  
+  <div align="right">
+   <strong><h4>Reddit Clone</h4></strong>
+   <ul>
+    <li>A Reddit Clone where users can make posts, vote and comment on posts and create communities</li>
+    <li>Built using Full Stack Ruby on Rails</li>
+    <li>Styled using Bootstrap and CSS</li>
+    <li>Designed with the Model View Controllr architecture in mind</li>
+   </ul>
+  </div>
+</div> -->
+
+<br clear="left">
+ 
+## 👩🏻‍🎓 Work and School Experience 
  
  Field Service Technician - Panther Industries (2020 - 2022)
  
