@@ -13,13 +13,13 @@ Connect with me and ask anything on <a href="https://www.linkedin.com/in/john-ty
 
 ## 🙋‍♂️ About Me
 
-🔭 I’m currently working on a **<a href="https://github.com/jfinley6/ruby-on-rails-reddit-clone">Reddit clone</a>** and a **<a href="https://github.com/jfinley6/reddit-keyword-monitor">Reddit Post Monitor</a>**
+<!-- 🔭 I’m currently working on a **<a href="https://github.com/jfinley6/ruby-on-rails-reddit-clone">Reddit clone</a>** and a **<a href="https://github.com/jfinley6/reddit-keyword-monitor">Reddit Post Monitor</a>**
     
-🌱 I’m currently learning **Ruby on Rails** and contributing to open source projects. 
+🌱 I’m currently learning **Ruby on Rails** and contributing to open source projects.  -->
  
  👩🏻‍🎓 I'm looking for a **Junior Developer Position** to get hands-on experience.
 
-📫 Reach me at : **j.finley92@gmail.com**
+📫 Reach me at : **johnfinleybremerton@gmail.com**
 
 ## 👩🏻‍🎓 Work and School Experience
  
