@@ -24,7 +24,7 @@ Connect with me and ask anything on <a href="https://www.linkedin.com/in/john-ty
 ## 🔭 Portfolio
  
  <div>
-  <img src="https://i.imgur.com/B0RAMDv.png" height="200"/>
+  <img src="https://i.imgur.com/B0RAMDv.png" height="250"/>
  <div>
   <p>Reddit Post Keyword Monitor</p>
   <p>
@@ -42,7 +42,7 @@ Connect with me and ask anything on <a href="https://www.linkedin.com/in/john-ty
 </div>
  
  <div>
-  <img src="https://i.imgur.com/Ff6T9VX.png" height="200"/>
+  <img src="https://i.imgur.com/Ff6T9VX.png" height="250"/>
  <div>
   <p>Reddit Clone</p>
   <p>
@@ -59,28 +59,24 @@ Connect with me and ask anything on <a href="https://www.linkedin.com/in/john-ty
  </div>
 </div>
  
-
-<!--  
+  <div>
+  <img src="https://i.imgur.com/pqAdLtF.png" height="250"/>
  <div>
-  <div align="left">
-   <a href="https://github.com/jfinley6/ruby-on-rails-reddit-clone">
-    <img src="https://i.imgur.com/Ff6T9VX.png" height="200"/>
-   </a>
-   <p>Live Demo</p>
-  </div>
-  
-  <div align="right">
-   <strong><h4>Reddit Clone</h4></strong>
-   <ul>
-    <li>A Reddit Clone where users can make posts, vote and comment on posts and create communities</li>
-    <li>Built using Full Stack Ruby on Rails</li>
+  <p>React Weather Browser</p>
+  <p>
+   <a href="https://reddit-clone-rails.herokuapp.com/">(Live Demo)</a>
+   <a href="https://github.com/jfinley6/ruby-on-rails-reddit-clone">(Github Repo)</a>
+  </p>
+  <ul align="left" style="list-style-type:none">
+    <li>A Weather App where users can browser current weather conditions around the United States</li>
+    <li>Built using React</li>
     <li>Styled using Bootstrap and CSS</li>
-    <li>Designed with the Model View Controllr architecture in mind</li>
-   </ul>
-  </div>
-</div> -->
-
-<br clear="left">
+    <li>Utilized Google Autocomplete API to suggest cities based on user input</li>
+    <li>Retrieved weather data from OpenWeatherMap API</li>
+    <li>Save favorite cities that persist through browser's Local Storage</li>
+  </ul>
+ </div>
+</div>
  
 ## 👩🏻‍🎓 Work and School Experience 
  
