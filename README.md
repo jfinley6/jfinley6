@@ -82,7 +82,7 @@ Connect with me and ask anything on <a href="https://www.linkedin.com/in/john-ty
  
  Field Service Technician - Panther Industries (2020 - 2022)
  
- Mechanical Engineering Degree (B.S.) from Washington State University (2017 - 2020)
+ Mechanical Engineering Degree (B.S.) from Washington State University (2018 - 2020)
 
 ## 🚀 Languages and Tools:
 
