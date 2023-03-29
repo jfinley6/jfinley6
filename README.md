@@ -60,12 +60,12 @@ Connect with me and ask anything on <a href="https://www.linkedin.com/in/john-ty
 </div>
  
   <div>
-  <img src="https://i.imgur.com/pqAdLtF.png" height="250"/>
+  <img src="https://i.imgur.com/6YO0XXZ.png" height="250"/>
  <div>
   <p>React Weather Browser</p>
   <p>
-   <a href="https://reddit-clone-rails.herokuapp.com/">(Live Demo)</a>
-   <a href="https://github.com/jfinley6/ruby-on-rails-reddit-clone">(Github Repo)</a>
+   <a href="http://react-weather-browser.vercel.app/">(Live Demo)</a>
+   <a href="https://github.com/jfinley6/react-weather-browser">(Github Repo)</a>
   </p>
   <ul align="left" style="list-style-type:none">
     <li>A Weather App where users can browser current weather conditions around the United States</li>
