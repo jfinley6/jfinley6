@@ -70,7 +70,7 @@ Connect with me and ask anything on <a href="https://www.linkedin.com/in/john-ty
   <ul align="left" style="list-style-type:none">
     <li>A Weather App where users can browser current weather conditions around the United States</li>
     <li>Built using React</li>
-    <li>Styled using Bootstrap and CSS</li>
+    <li>Styled using Tailwind and CSS</li>
     <li>Utilized Google Autocomplete API to suggest cities based on user input</li>
     <li>Retrieved weather data from OpenWeatherMap API</li>
     <li>Save favorite cities that persist through browser's Local Storage</li>
