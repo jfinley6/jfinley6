@@ -80,7 +80,9 @@ Connect with me and ask anything on <a href="https://www.linkedin.com/in/john-ty
  
 ## 👩🏻‍🎓 Work and School Experience 
  
- Field Service Technician - Panther Industries (2020 - 2022)
+ Programmer/Assembly Technician - Panther Industries (2023 - Present)
+ 
+ Field Service Engineer - Panther Industries (2020 - 2022)
  
  Mechanical Engineering Degree (B.S.) from Washington State University (2018 - 2020)
 
