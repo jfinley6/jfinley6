@@ -20,6 +20,18 @@ Connect with me and ask anything on <a href="https://www.linkedin.com/in/john-ty
  👩🏻‍🎓 I'm looking for a **Junior Developer Position** to get hands-on experience.
 
 📫 Reach me at : **johnfinleybremerton@gmail.com**
+
+🤹‍♂️ SKILLS
+
+Coding Languages | JavaScript, Ruby, SQL, CSS, HTML
+
+Frontend (client side) | React.js, Tailwind, Bootstrap
+
+Backend (server side) | Ruby on Rails, ExpressJS, SQL
+
+Tools | VS Code, Heroku, Postman, GitHub, Git
+
+Skills | Object Relational Mapping, MVC, Deploying Sites
  
 ## 🔭 Portfolio
  
