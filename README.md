@@ -5,23 +5,23 @@
 <p align="center"> 
  <img src="https://www.fieldwork.com/wp-content/uploads/2014/04/Denver-header.jpg"/> </p>
 
-<h3 align="center"><b>  I am John Finley, currently a Software Engineering graduate out of Flatiron School. I enjoy building projects and coming up with fun new features. Right now I reside out of Denver, CO. Feel free to connect. </b></h3>
+<h3 align="center"><b>  I am John Finley, previously a Software Engineering graduate out of Flatiron School, I currently intern as a Software Engineer for a company called Panther Industries. My day consists of coming up with cool and useful new tools for my coworkers to use as well as maintaining and refactoring code. I reside out of Denver, CO and love to play disc golf. Feel free to connect. </b></h3>
 
 <div align="center">
 
 Connect with me and ask anything on <a href="https://www.linkedin.com/in/john-tyler-finley/"><b>LinkedIn</b></a> 
 
-## 🙋‍♂️ About Me
+# 🧑‍💻 About Me
 
 <!-- 🔭 I’m currently working on a **<a href="https://github.com/jfinley6/ruby-on-rails-reddit-clone">Reddit clone</a>** and a **<a href="https://github.com/jfinley6/reddit-keyword-monitor">Reddit Post Monitor</a>**
     
 🌱 I’m currently learning **Ruby on Rails** and contributing to open source projects.  -->
  
- 👩🏻‍🎓 I'm looking for a **Junior Developer Position** to get hands-on experience.
+ 👩🏻‍🎓 I'm looking for a **Junior Developer Position** to get hands-on experience working in an agile team environment
 
-📫 Reach me at : **johnfinleybremerton@gmail.com**
+📫 Reach me at : **j.finley92@gmail.com**
 
-🤹‍♂️ SKILLS
+# 🤹‍♂️ SKILLS
 
 Coding Languages | JavaScript, Ruby, SQL, CSS, HTML
 
@@ -33,7 +33,7 @@ Tools | VS Code, Heroku, Postman, GitHub, Git
 
 Skills | Object Relational Mapping, MVC, Deploying Sites
  
-## 🔭 Portfolio
+# 🔭 Personal Portfolio
  
  <div>
   <img src="https://i.imgur.com/B0RAMDv.png" height="250"/>
@@ -90,15 +90,15 @@ Skills | Object Relational Mapping, MVC, Deploying Sites
  </div>
 </div>
  
-## 👩🏻‍🎓 Work and School Experience 
+# 👩🏻‍🎓 Work and School Experience 
  
- Programmer/Assembly Technician - Panther Industries (2023 - Present)
+ Software Engineer Intern/Assembly Technician - Panther Industries (2023 - Present)
  
  Field Service Technician - Panther Industries (2020 - 2022)
  
  Mechanical Engineering Degree (B.S.) from Washington State University (2018 - 2020)
 
-## 🚀 Languages and Tools:
+# 🚀 Languages and Tools:
 
 <p align="center"> 
     <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/ruby-programming-language.png"/> </a> 
