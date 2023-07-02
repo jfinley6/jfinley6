@@ -5,7 +5,7 @@
 <p align="center"> 
  <img src="https://www.fieldwork.com/wp-content/uploads/2014/04/Denver-header.jpg"/> </p>
 
-<h3 align="center"><b>  I am John Finley, previously a Software Engineering graduate out of Flatiron School, I currently intern as a Software Engineer for a company called Panther Industries. My day consists of coming up with cool and useful new tools for my coworkers to use as well as maintaining and refactoring code. I reside out of Denver, CO and love to play disc golf. Feel free to connect. </b></h3>
+<h3 align="center"><b>  I'm John Finley, I currently intern as a Software Engineer for a company called Panther Industries. My day consists of coming up with cool and useful new tools for my coworkers to use as well as maintaining and refactoring code. I reside out of Denver, CO and love to play disc golf. Feel free to connect. </b></h3>
 
 <div align="center">
 
