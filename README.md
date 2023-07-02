@@ -21,7 +21,7 @@ Connect with me and ask anything on <a href="https://www.linkedin.com/in/john-ty
 
 📫 Reach me at : **j.finley92@gmail.com**
 
-# 🤹‍♂️ SKILLS
+#  SKILLS
 
 Coding Languages | JavaScript, Ruby, SQL, CSS, HTML
 
