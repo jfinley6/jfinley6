@@ -54,7 +54,7 @@ Skills | Object Relational Mapping, MVC, Deploying Sites
 </div>
  
  <div>
-  <img src="https://i.imgur.com/Ff6T9VX.png" height="250"/>
+  <img src="https://i.imgur.com/y4h5gFq.png" height="250"/>
  <div>
   <p>DiscussionHub</p>
   <p>
