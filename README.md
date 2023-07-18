@@ -56,13 +56,13 @@ Skills | Object Relational Mapping, MVC, Deploying Sites
  <div>
   <img src="https://i.imgur.com/Ff6T9VX.png" height="250"/>
  <div>
-  <p>Reddit Clone</p>
+  <p>DiscussionHub</p>
   <p>
-   <a href="https://reddit-clone-rails.herokuapp.com/">(Live Demo)</a>
+   <a href="https://discussionhub-51a7c53ae2c9.herokuapp.com/">(Live Demo)</a>
    <a href="https://github.com/jfinley6/ruby-on-rails-reddit-clone">(Github Repo)</a>
   </p>
   <ul align="left" style="list-style-type:none">
-    <li>A Reddit Clone where users can make posts, vote and comment on posts and create communities</li>
+    <li>A website where users can make posts, vote and comment on posts and create communities</li>
     <li>Built using Full Stack Ruby on Rails</li>
     <li>Styled using Bootstrap and CSS</li>
     <li>Authentication and session tracking done using Devise gem</li>
