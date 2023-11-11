@@ -5,7 +5,7 @@
 <p align="center"> 
  <img src="https://walkerconsultants.com/wp-content/uploads/2016/06/banner-location-denver.jpg"/> </p>
 
-<h3 align="center"><b>  I'm John Finley, I currently intern as a Programmer for a company called Panther Industries. My day consists of coming up with cool and useful new tools for my coworkers to use as well as maintaining and refactoring code. I reside out of Denver, CO and love to play disc golf. Feel free to connect. </b></h3>
+<h3 align="center"><b>  I'm John Finley, I currently work as a Programmer/Assembly Tech for a company called Panther Industries. My day consists of coming up with cool and useful new tools for my coworkers to use as well as maintaining and refactoring code. I reside out of Denver, CO and love to play disc golf. Feel free to connect. </b></h3>
 
 <div align="center">
 
@@ -92,7 +92,9 @@ Skills | Object Relational Mapping, MVC, Deploying Sites
  
 # 👩🏻‍🎓 Work and School Experience 
  
- Software Engineer Intern/Assembly Technician - Panther Industries (2023 - Present)
+ Programmer/Assembly Techn - Panther Industries (2023 - Present)
+
+ Full Stack Software Engineering Bootcamp - Flatiron School (2022)
  
  Field Service Technician - Panther Industries (2020 - 2022)
  
