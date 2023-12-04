@@ -17,7 +17,7 @@ Connect with me and ask anything on <a href="https://www.linkedin.com/in/john-ty
     
 🌱 I’m currently learning **Ruby on Rails** and contributing to open source projects.  -->
  
- 👩🏻‍🎓 I'm looking for a **Junior Developer Position** to get hands-on experience working in an agile team environment
+ 👩🏻‍🎓 I'm looking for a **Junior Developer/Software Engineer Position** to get hands-on experience working in an agile team environment
 
 📫 Reach me at : **j.finley92@gmail.com**
 
