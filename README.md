@@ -58,7 +58,6 @@ Skills | Object Relational Mapping, MVC, Deploying Sites
  <div>
   <p>DiscussionHub</p>
   <p>
-   <a href="https://discussionhub-51a7c53ae2c9.herokuapp.com/">(Live Demo)</a>
    <a href="https://github.com/jfinley6/ruby-on-rails-reddit-clone">(Github Repo)</a>
   </p>
   <ul align="left" style="list-style-type:none">
@@ -92,7 +91,7 @@ Skills | Object Relational Mapping, MVC, Deploying Sites
  
 # 👩🏻‍🎓 Work and School Experience 
  
- Programmer/Assembly Techn - Panther Industries (2023 - Present)
+ Programmer/Assembly Tech - Panther Industries (2023 - Present)
 
  Full Stack Software Engineering Bootcamp - Flatiron School (2022)
  
